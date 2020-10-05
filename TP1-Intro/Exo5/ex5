@@ -1,0 +1,6 @@
+##(1 point) Que fait la commande ls * ?
+
+#####ls* permet de chercher des fichiers dans le répertoire courant avec un préfixe/suffixe ou des caractères qu'ils sont sensés contenir
+
+##Comment peut-on voir les fichiers dont le nom commence par "es" ?
+`ls -d es*`

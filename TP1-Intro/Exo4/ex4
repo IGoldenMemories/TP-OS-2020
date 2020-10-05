@@ -1,0 +1,3 @@
+##(1 point) Donnez une seule commande permettant de créer les répertoires suivantes/tmp/tp/prog1 sachant que le répertoire /tmp est initialement vide ?
+
+`mkdir .\tmp\tp\prog1`

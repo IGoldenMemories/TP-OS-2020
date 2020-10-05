@@ -1,0 +1,6 @@
+#H1 (1 point) Créez dans votre répertoire de connexion (home directory) un répertoire
+nommé "exo"
+
+`cd`
+`mkdir ./exo`
+*pwd affiche: /user/exo*

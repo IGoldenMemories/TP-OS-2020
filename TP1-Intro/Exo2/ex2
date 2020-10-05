@@ -1,0 +1,5 @@
+##(1 point) Dans le répertoire "exo", créez un fichier texte nommé "es1", puis un sousrépertoire nommé "essai2".
+
+`cd[exo]`
+`cat> es1.txt`
+`mkdir ./essai2`

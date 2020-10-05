@@ -1,0 +1,12 @@
+## (1 point) Copiez le fichier "es1" dans le répertoire "essai2" (commande cp).
+
+`cp -r es1 essai2`
+
+##Changez le nom de cette copie en "es1-copie".
+
+`cp es1 es1-copie`
+
+##Peut-on obtenir ce résultat en use seule opération ?
+
+*Oui comme suit*
+`cp es1 essai2/es1-copie `
